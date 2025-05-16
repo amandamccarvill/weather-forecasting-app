@@ -1,4 +1,5 @@
 ** Weather Forecasting App
+
 A weather forecasting app built with React and Vite that retrieves weather data from the Open Weather Map API. This app allows users to search for a city and view the 5-day weather forecast, along with current weather conditions such as temperature, humidity, and wind speed.
 
 The app also features a temperature unit toggle (Celsius/Fahrenheit) and the ability to refresh the weather data.
